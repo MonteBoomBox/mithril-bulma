@@ -1,13 +1,13 @@
 {
   "name": "mithril-bulma",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "webpack ./index.js --output-path bin --output-filename app.js --watch --mode development`"
+  "description": "Bulma CSS Components Library for MithrilJS",
+  "keywords": ["Bulma", "MithrilJS"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonteBoomBox/mithril-bulma.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Manas Joshi",
   "license": "ISC",
   "dependencies": {
     "mithril": "^2.0.4"
